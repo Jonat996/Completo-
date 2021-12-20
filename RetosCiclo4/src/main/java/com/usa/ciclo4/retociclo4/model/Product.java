@@ -17,7 +17,7 @@ public class Product {
     private String category;
     private String presentation;
     private String description;
-     private boolean availability;
+    private boolean availability;
     private Double price;
     private Integer quantity;
     private String photography;
